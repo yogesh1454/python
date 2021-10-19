@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Root rowCount="5">
+<Root rowCount="4">
   <Customers>
     <Customer CustomerID="GREAL">
       <CompanyName>Great Lakes Food Market</CompanyName>
